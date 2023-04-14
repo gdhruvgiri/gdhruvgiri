@@ -1,6 +1,10 @@
 # 💫 About Me:
 With over two years of experience in full stack development, app development, web automation, and API development, I am confident in my ability to deliver high-quality software solutions. I am skilled in a variety of programming languages and technologies, and have a strong track record of successfully completing projects on time and to the satisfaction of my clients.
 
+I am excited to offer my expertise as a freelancer, and am committed to delivering exceptional results for my clients. Whether you need a new website, an app, or custom automation tools, I have the skills and experience to get the job done right. Please do not hesitate to contact me for more information about my qualifications and how I can help you with your project.
+
+Also, I am open to connect with people over the world that we can do something greatful. Here, my personal accounts links. Feel free to ask questions or let me know if you have any suggestions. I will be thankful to you.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.dhruvgiri._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvgiri-goswami) 
