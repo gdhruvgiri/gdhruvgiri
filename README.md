@@ -1,5 +1,5 @@
 # 💫 About Me:
-With over two years of experience in full stack development, app development, web automation, and API development, I am confident in my ability to deliver high-quality software solutions. I am skilled in a variety of programming languages and technologies, and have a strong track record of successfully completing projects on time and to the satisfaction of my clients.
+With over three years of experience in full stack development, app development, web automation, and API development, I am confident in my ability to deliver high-quality software solutions. I am skilled in a variety of programming languages and technologies, and have a strong track record of successfully completing projects on time and to the satisfaction of my clients.
 
 I am excited to offer my expertise as a freelancer, and am committed to delivering exceptional results for my clients. Whether you need a new website, an app, or custom automation tools, I have the skills and experience to get the job done right. Please do not hesitate to contact me for more information about my qualifications and how I can help you with your project.
 
